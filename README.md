@@ -5,17 +5,17 @@
 Photo Gallery is an interactive photo gallery build using JavaScript and a jQuery plugin for a lightbox. The page is built using mobile first and responsive design principals. It also has a search box functionality that filters the photos in real-time as the user types, and only display photos that match the search.
 
 ### Motivation
-The purpose of this project was to  get comfortable with HTML/CSS/ Responsive design / JQuery Plugin.
+The purpose of this project was to get comfortable using HTML5, CSS3, responsive design principals and a jQuery Plugin [Lightbox 2](https://lokeshdhakar.com/projects/lightbox2/).
 
 ### Getting Started
  1. Click the demo link or clone/download the repository on your local machine and open the index.html file with a browser.
- 2. Click on thumbnail images in the gallery and view them in a larger lightbox.
+ 2. Click on thumbnail images in the gallery to view them in a larger lightbox.
  3. Click on the back and forward arrows to switch between photos when the lightbox is visible.
  4. Type into the search-box to filter the gallery images  based on the captions like 'Lake' or 'Mountain'.
  5. Exit out with a click outside of the image or the X.
  
   ### Thoughts
-It was a fun project to build and I felt comfortable throughout the project and even when I struggled with my JavaScript function for the search functionality, I was able to think through it and figure out where I was erroring. It was the first time I started using grid for layouts.It took me some time to figure out which plugin I needed to use in order to implement all the features . Need to code lightbox myself rather than using a lightbox plugin.
+It was a fun project to build and I felt comfortable throughout the project and even when I struggled with my JavaScript function for implementing the search functionality, I was able to think through it and figure out where I was erroring. It was the first time I started using a grid for CSS layouts. It took me some time to figure out which plugin I needed to use in order to implement all the features. Also, I need to create my own custom lightbox rather than using a  plugin.
 
 ### Built With
 * HTML5 
