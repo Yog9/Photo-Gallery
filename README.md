@@ -15,7 +15,7 @@ The purpose of this project was to get comfortable using HTML5, CSS3, responsive
  5. Exit out with a click outside of the image or the X.
  
   ### Thoughts
-It was a fun project to build and I felt comfortable throughout the project and even when I struggled with my JavaScript function for implementing the search functionality, I was able to think through it and figure out where I was erroring. It was the first time I started using a grid for CSS layouts. It took me some time to figure out which plugin I needed to use in order to implement all the features. Also, I need to create my own custom lightbox rather than using a  plugin.
+It was a fun project to build and I felt comfortable throughout the project even when I struggled with my JavaScript function for implementing the search functionality, I was able to think through it and figure out where I was erroring. It was the first time I started using a grid for CSS3 layouts. It took me some time to figure out which plugin I needed to use in order to implement all the features. Also, I need to create my own custom lightbox rather than using a  plugin.
 
 ### Built With
 * HTML5 
