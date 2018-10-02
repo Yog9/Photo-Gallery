@@ -2,7 +2,7 @@
 [Demo Photo Gallery Here](https://yog9.github.io/Photo-Gallery/)
 
 ## Summary
-Photo Gallery is an interactive photo gallery build using JavaScript and a jQuery plugin for a lightbox.The page is built using a mobile first, responsive design. It also has a search box funtionality that filters the photos in real-time as the user types, and only display photos that match the search.
+Photo Gallery is an interactive photo gallery build using JavaScript and a jQuery plugin for a lightbox. The page is built using mobile first and responsive design principals. It also has a search box functionality that filters the photos in real-time as the user types, and only display photos that match the search.
 
 ### Motivation
 The purpose of this project was to  get comfortable with HTML/CSS/ Responsive design / JQuery Plugin.
